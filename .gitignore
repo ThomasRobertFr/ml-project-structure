@@ -1,0 +1,6 @@
+/.env
+/config-private.yml
+.gitkeep
+
+/data
+/results
